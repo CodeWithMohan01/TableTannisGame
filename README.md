@@ -1,1 +1,1 @@
-https://codewithmohan01.github.io/my-game/
+https://codewithmohan01.github.io/TableTannisGame/
